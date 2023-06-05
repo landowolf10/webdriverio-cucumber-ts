@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@text='Login' or @label='Login']"
+}

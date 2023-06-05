@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 20 13:17:20 CDT 2023","Thu Apr 20 13:17:21 CDT 2023","1182","","The Internet Guinea Pig Website: As a user, I can log into the secure area","","","","Given app is open",""
+"passed","Thu Apr 20 14:11:36 CDT 2023","Thu Apr 20 14:11:36 CDT 2023","1","","Webdriver IO app test: As a user, I can log in successfully","","","","",""
+"passed","Thu Apr 20 13:17:21 CDT 2023","Thu Apr 20 13:17:26 CDT 2023","4582","","The Internet Guinea Pig Website: As a user, I can log into the secure area","","","","When entering email ""tomsmith"" and password ""SuperSecretPassword!""",""
+"passed","Thu Apr 20 13:17:26 CDT 2023","Thu Apr 20 13:17:26 CDT 2023","1","","The Internet Guinea Pig Website: As a user, I can log into the secure area","","","","",""
+"passed","Thu Apr 20 14:11:31 CDT 2023","Thu Apr 20 14:11:32 CDT 2023","1131","","Webdriver IO app test: As a user, I can log in successfully","","","","Given app is open",""
+"passed","Thu Apr 20 14:11:32 CDT 2023","Thu Apr 20 14:11:36 CDT 2023","4166","","Webdriver IO app test: As a user, I can log in successfully","","","","When entering email ""tomsmith"" and password ""SuperSecretPassword!""",""
